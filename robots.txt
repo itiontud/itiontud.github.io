@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itiontud.github.io/sitemap.html.gz
+Sitemap: https://itiontud.github.io/app/sitemap.html.gz
+Sitemap: https://itiontud.github.io/assets/sitemap.html.gz
+Sitemap: https://itiontud.github.io/css/sitemap.html.gz
+Sitemap: https://itiontud.github.io/includes/sitemap.html.gz
+Sitemap: https://itiontud.github.io/item/sitemap.html.gz
+Sitemap: https://itiontud.github.io/src/sitemap.html.gz
